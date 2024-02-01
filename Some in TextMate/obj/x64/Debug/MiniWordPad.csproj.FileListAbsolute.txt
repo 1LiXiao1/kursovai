@@ -1,0 +1,15 @@
+C:\Users\Li Xiao\Downloads\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.AssemblyReference.cache
+C:\Users\Li Xiao\Downloads\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.AssemblyReference.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\help.chm
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\MiniWordPad.exe.config
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\MiniWordPad.exe
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\MiniWordPad.pdb
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.AboutBox1.resources
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.MainForm.resources
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.Properties.Resources.resources
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.GenerateResource.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.csproj.CoreCompileInputs.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.exe
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\MiniWordPad.pdb

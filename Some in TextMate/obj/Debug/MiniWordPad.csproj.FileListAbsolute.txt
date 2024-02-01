@@ -1,0 +1,2 @@
+C:\Users\Li Xiao\Downloads\Some in TextMate\Some in TextMate\obj\Debug\MiniWordPad.csproj.AssemblyReference.cache
+C:\Users\Li Xiao\Downloads\Some in TextMate\Some in TextMate\obj\Debug\MiniWordPad.csproj.SuggestedBindingRedirects.cache

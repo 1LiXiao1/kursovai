@@ -1,0 +1,26 @@
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\help.chm
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.AssemblyReference.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.GenerateResource.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.CoreCompileInputs.cache
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\Some in TextMate.exe.config
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\Some in TextMate.exe
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\bin\x64\Debug\Some in TextMate.pdb
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some_in_TextMate.Properties.Resources.resources
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.exe
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some in TextMate.pdb
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some_in_TextMate.AboutBox1.resources
+C:\Users\Li Xiao\source\repos\Some in TextMate\Some in TextMate\obj\x64\Debug\Some_in_TextMate.MainForm.resources
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\bin\x64\Debug\help.chm
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\bin\x64\Debug\Some in TextMate.exe.config
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\bin\x64\Debug\Some in TextMate.exe
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\bin\x64\Debug\Some in TextMate.pdb
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.AssemblyReference.cache
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some_in_TextMate.AboutBox1.resources
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some_in_TextMate.MainForm.resources
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some_in_TextMate.Properties.Resources.resources
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.GenerateResource.cache
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.csproj.CoreCompileInputs.cache
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.exe
+C:\Users\Li Xiao\Desktop\word\Курсовая\Бутынцев\Some in TextMate\obj\x64\Debug\Some in TextMate.pdb
